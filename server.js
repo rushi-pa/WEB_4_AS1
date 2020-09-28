@@ -1,3 +1,13 @@
+/*********************************************************************************
+* WEB422 – Assignment 1
+* I declare that this assignment is my own work in accordance with Seneca Academic Policy.
+* No part of this assignment has been copied manually or electronically from any other source
+* (including web sites) or distributed to other students.
+*
+* Name: Rushi Dinesh Patel Student ID:108189192 Date:9/28/2020
+* Heroku Link:https://as1rushi.herokuapp.com/api/sales
+*
+********************************************************************************/
 const express = require("express");
 const cors = require("cors");
 const bodyParser = require("body-parser");
